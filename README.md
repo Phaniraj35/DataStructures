@@ -1,2 +1,2 @@
 # DataStructures
-Collection of some data structure implementation in PHP
+Collection of some Data Structure Implementations in PHP
